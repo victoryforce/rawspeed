@@ -16672,6 +16672,7 @@
 		<Aliases>
 			<Alias id="Maxxum 7D">MAXXUM 7D</Alias>
 			<Alias id="Alpha 7D">ALPHA 7D</Alias>
+			<Alias id="Alpha-7 Digital">ALPHA-7 DIGITAL</Alias>
 		</Aliases>
 		<ColorMatrices>
 			<ColorMatrix planes="3">
