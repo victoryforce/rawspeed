@@ -4286,6 +4286,9 @@
 			</ColorMatrix>
 		</ColorMatrices>
 	</Camera>
+	<Camera make="NIKON CORPORATION" model="NIKON Z50_2" supported="unknown-no-samples">
+		<ID make="Nikon" model="Z50_2">Nikon Z 50 2</ID>
+	</Camera>
 	<Camera make="NIKON CORPORATION" model="NIKON Z fc" mode="14bit-compressed">
 		<ID make="Nikon" model="Z fc">Nikon Z fc</ID>
 		<CFA width="2" height="2">
