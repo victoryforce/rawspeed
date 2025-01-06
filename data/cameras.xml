@@ -16854,7 +16854,7 @@
 			</ColorMatrix>
 		</ColorMatrices>
 	</Camera>
-	<Camera make="Minolta Co., Ltd." model="DiMAGE 5" supported="no-samples">
+	<Camera make="Minolta Co., Ltd." model="DiMAGE 5">
 		<ID make="Minolta" model="DiMAGE 5">Minolta DiMAGE 5</ID>
 		<CFA width="2" height="2">
 			<Color x="0" y="0">RED</Color>
