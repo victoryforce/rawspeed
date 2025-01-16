@@ -18063,6 +18063,9 @@
 	<Camera make="LEICA CAMERA AG" model="LEICA SL3" mode="dng">
 		<ID make="Leica" model="SL3">LEICA SL3</ID>
 	</Camera>
+	<Camera make="LEICA CAMERA AG" model="LEICA SL3-S" mode="dng">
+		<ID make="Leica" model="SL3-S">LEICA SL3-S</ID>
+	</Camera>
 	<Camera make="LEICA CAMERA AG" model="LEICA CL" mode="dng">
 		<ID make="Leica" model="CL">LEICA CL</ID>
 	</Camera>
