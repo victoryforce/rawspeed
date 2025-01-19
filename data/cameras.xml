@@ -11005,6 +11005,9 @@
 		<ID make="Panasonic" model="DC-S5">Panasonic DC-S5</ID>
 		<Crop x="0" y="0" width="-50" height="0"/>
 		<Sensor black="509" white="16380"/>
+		<Aliases>
+			<Alias>DC-S5D</Alias>
+		</Aliases>
 		<ColorMatrices>
 			<ColorMatrix planes="3">
 				<ColorMatrixRow plane="0">9744 -3905 -779</ColorMatrixRow>
@@ -11017,6 +11020,9 @@
 		<ID make="Panasonic" model="DC-S5">Panasonic DC-S5</ID>
 		<Crop x="0" y="0" width="-50" height="0"/>
 		<Sensor black="509" white="16380"/>
+		<Aliases>
+			<Alias>DC-S5D</Alias>
+		</Aliases>
 		<ColorMatrices>
 			<ColorMatrix planes="3">
 				<ColorMatrixRow plane="0">9744 -3905 -779</ColorMatrixRow>
@@ -11024,9 +11030,6 @@
 				<ColorMatrixRow plane="2">-798 1630 5827</ColorMatrixRow>
 			</ColorMatrix>
 		</ColorMatrices>
-	</Camera>
-	<Camera make="Panasonic" model="DC-S5D" supported="unknown-no-samples">
-		<ID make="Panasonic" model="DC-S5D">Panasonic DC-S5D</ID>
 	</Camera>
 	<Camera make="Panasonic" model="DC-S5M2" supported="no">
 		<ID make="Panasonic" model="DC-S5M2">Panasonic DC-S5M2</ID>
